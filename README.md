@@ -1,6 +1,6 @@
 # ISIS Settings Demo
 
-Explores control over ISIS scanning settings in greater depth than our ISIS Demo.
+Explores control over ISIS scanning settings in greater depth than our [ISIS Acquisition Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_CS_x86).
 
 Unlike our ISIS Demo, this is an in-depth exploration of available ISIS settings when connected to a given scanner. It allows you to view and modify the settings for your scanner.
 
